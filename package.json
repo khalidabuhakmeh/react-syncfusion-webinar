@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "private": "true",
   "dependencies": {
+    "@syncfusion/ej2-react-charts": "^22.2.12",
+    "@syncfusion/ej2-react-grids": "^22.2.12",
+    "@syncfusion/ej2-react-lists": "^22.2.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "^5.0.1",
