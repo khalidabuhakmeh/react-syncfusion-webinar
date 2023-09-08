@@ -39,6 +39,7 @@ export function App() {
           </ColumnsDirective>
         </GridComponent>
       </div>
+      <div>some change</div>
       <div className={"container"}>
         <h2>Chart component</h2>
         <ChartComponent id="charts" primaryXAxis={{ valueType: "Category" }}>
